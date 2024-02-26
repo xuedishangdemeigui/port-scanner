@@ -11,7 +11,7 @@ make build
 
 ``` bash
 ./port-scanner --help
-                                                                                             ✭
+
 Usage:
 port-scanner -h host -p port1[-port2]
 
